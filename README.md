@@ -66,8 +66,13 @@ $ npm start
 ***
 A list of frequently asked questions
 1. **This project it has been developed for David de la Fuente?**
+   
 _Yes, all project that you can see, and projects linked inside it has been developed for me_. 
-2. __Second question in bold__ 
+
+2. __The style of the project is copied?__
+
+   _No, I decided this tyle inspired on different webs that I can see working and developing websites, using new tendencies and trying to create a clear website, easy to navigate_.
+   
 To answer this question we use an unordered list:
 * First point
 * Second Point
