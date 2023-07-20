@@ -25,23 +25,26 @@ Personal web portfolio created by David de la Fuente Gómez
 2. [Technologies](#technologies)
 3. [Links](#links)
 4. [FAQs](#faqs)
+   
 ### General Info
 ***
 This is my personal portfolio web, to show the world my skills, and my interests, and know a few more about me.
-I've decided to create this site in manually, without libraries or frameworks to help me. This decission was for showing my capacity with different technologies.
+I've decided to create this site manually, without libraries or frameworks to help me. This decission was for showing my capacity with different technologies.
 This site is deployed in Netlify, and the mail server used is Convertkit.
 Some projects I can't show you because they are private, only explain basic concepts about.
 
 ### Screenshot
 ***
+<!-- Example to insert images
 ![Image text](https://www.seiu1000.org/sites/main/files/main-images/camera_lense_0.jpeg)
+-->
 
 ## Technologies
 ***
 A list of technologies used within the project:
-* [Technologie name](https://example.com): Version 12.3 
-* [Technologie name](https://example.com): Version 2.34
-* [Library name](https://example.com): Version 1234
+* [HTML](https://example.com): Version 12.3 
+* [CSS](https://example.com): Version 2.34
+* [Java Script](https://example.com): Version 1234
 * 
 ## Installation
 ***
