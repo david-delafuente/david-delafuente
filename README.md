@@ -39,12 +39,10 @@ Some projects I can't show you because they are private, only explain basic conc
 ![Image text](https://www.seiu1000.org/sites/main/files/main-images/camera_lense_0.jpeg)
 -->
 
-## Technologies and dependencies
+### Technologies and dependencies
 ***
 A list of technologies used within the project:
-<!-- Example link
-* [HTML](https://example.com): Version 12.3 
--->
+
 * HTML
 * CSS
 * Java Script
@@ -66,7 +64,8 @@ Give instructions on how to collaborate with your project.
 > Maybe you want to write a quote in this part. 
 > It should go over several rows?
 > This is how you do it.
-## FAQs
+> 
+### FAQs
 ***
 A list of frequently asked questions
 1. **This is a question in bold**
