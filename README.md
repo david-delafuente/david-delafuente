@@ -23,7 +23,7 @@ Personal web portfolio created by David de la Fuente Gómez.
 
 ## Table of Contents
 1. [General Info](#general-info)
-2. [Technologies](#technologies)
+2. [Technologies and dependencies](#echnologies-and-dependencies)
 3. [Links](#links)
 4. [FAQs](#faqs)
    
@@ -76,6 +76,7 @@ $ npm start
 3. __How does the form use the data of users who want to contact you?__
 
    _All data of users are used only for personal use, for personal contact between us. I don't share any info with thirds._
+   
 
 > If you want to contribute for improving this project, please pull request on GitHub.
 > And if you want tips for me about any question, please tell me for improving my web.
