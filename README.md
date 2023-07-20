@@ -23,8 +23,8 @@ Personal web portfolio created by David de la Fuente Gómez.
 
 ## Table of Contents
 1. [General Info](#general-info)
-2. [Technologies and dependencies](#echnologies-and-dependencies)
-3. [Links](#links)
+2. [Technologies and dependencies](#technologies-and-dependencies)
+3. [Installation](#installation)
 4. [FAQs](#faqs)
    
 ### General Info
