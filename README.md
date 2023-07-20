@@ -50,7 +50,7 @@ A list of technologies used within the project:
 * [Icons](https://ionic.io/ionicons)
 * [Background Image](https://unsplash.com/es/fotos/oMpAz-DN-9I)
   
-## Installation
+### Installation
 ***
 A little intro about the installation. 
 ```
@@ -59,12 +59,9 @@ $ cd ../path/to/the/file
 $ npm install
 $ npm start
 ```
-***
-Give instructions on how to collaborate with your project.
-> Maybe you want to write a quote in this part. 
-> It should go over several rows?
-> This is how you do it.
-> 
+
+> If you to contibute to improve this project, please write me!
+ 
 ### FAQs
 ***
 A list of frequently asked questions
