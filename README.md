@@ -48,8 +48,8 @@ A list of technologies used within the project:
 * HTML
 * CSS
 * Java Script
-* [CSS Animations] (https://animate.style)
-* [Icons] (https://ionic.io/ionicons)
+* [CSS Animations](https://animate.style)
+* [Icons](https://ionic.io/ionicons)
   
 ## Installation
 ***
