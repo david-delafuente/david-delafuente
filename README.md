@@ -1,8 +1,9 @@
+<!--
 ### Hi there 👋
 
 # Hola, mi nombre es David de la Fuente Gómez 👋
 
-<!--
+
 **david-delafuente/david-delafuente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -33,9 +34,10 @@ I've decided to create this site manually, without libraries or frameworks to he
 This site is deployed in Netlify, and the mail server used is Convertkit.
 Some projects I can't show you because they are private, only explain basic concepts about.
 
+<!-- 
 ### Screenshot
 ***
-<!-- Example to insert images
+Example to insert images
 ![Image text](https://www.seiu1000.org/sites/main/files/main-images/camera_lense_0.jpeg)
 -->
 
@@ -59,27 +61,21 @@ $ cd ../path/to/the/file
 $ npm install
 $ npm start
 ```
-
-> If you to contribute for improving this project, please write to me!
  
 ### FAQs
 ***
 A list of frequently asked questions
-1. **This project it has been developed for David de la Fuente?**
+1. **This project has been developed for David de la Fuente?**
    
    _Yes, all project that you can see, and projects linked inside it has been developed for me_. 
 
 2. __The style of the project is copied?__
 
-_No, I decided this style inspired by different webs that I've seen working and developing websites, using new tendencies and trying to create a clear website, easy to navigate_.
+   _No, I decided this style inspired by different webs that I've seen working and developing websites, using new tendencies and trying to create a clear website, easy to navigate_.
    
-To answer this question we use an unordered list:
-* First point
-* Second Point
-* Third point
-3. **Third question in bold**
-Answer of the third question with *italic words*.
-4. **Fourth question in bold**
-| Headline 1 in the tablehead | Headline 2 in the tablehead | Headline 3 in the tablehead |
-|:--------------|:-------------:|--------------:|
-| text-align left | text-align center | text-align right |
+3. __How does the form use the data of users who want to contact you?__
+
+   _All data of users are used only for personal use, for personal contact between us. I don't share any info with thirds._
+
+> If you want to contribute for improving this project, please pull request on GitHub.
+> And if you want tips for me about any question, please tell me for improving my web.
