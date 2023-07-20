@@ -29,7 +29,7 @@ Personal web portfolio created by David de la Fuente Gómez
 ### General Info
 ***
 This is my personal portfolio web, to show the world my skills, and my interests, and know a few more about me.
-I've decided to create this site manually, without libraries or frameworks to help me. This decission was for showing my capacity with different technologies.
+I've decided to create this site manually, without libraries or frameworks to help me. This decision was for showing my capacity with different technologies.
 This site is deployed in Netlify, and the mail server used is Convertkit.
 Some projects I can't show you because they are private, only explain basic concepts about.
 
@@ -39,7 +39,7 @@ Some projects I can't show you because they are private, only explain basic conc
 ![Image text](https://www.seiu1000.org/sites/main/files/main-images/camera_lense_0.jpeg)
 -->
 
-## Technologies
+## Technologies and dependencies
 ***
 A list of technologies used within the project:
 <!-- Example link
@@ -50,6 +50,7 @@ A list of technologies used within the project:
 * Java Script
 * [CSS Animations](https://animate.style)
 * [Icons](https://ionic.io/ionicons)
+* [Background Image](https://unsplash.com/es/fotos/oMpAz-DN-9I)
   
 ## Installation
 ***
@@ -60,8 +61,6 @@ $ cd ../path/to/the/file
 $ npm install
 $ npm start
 ```
-Side information: To use the application in a special environment use ```lorem ipsum``` to start
-## Collaboration
 ***
 Give instructions on how to collaborate with your project.
 > Maybe you want to write a quote in this part. 
