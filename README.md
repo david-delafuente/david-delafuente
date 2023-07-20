@@ -42,9 +42,12 @@ Some projects I can't show you because they are private, only explain basic conc
 ## Technologies
 ***
 A list of technologies used within the project:
+<!-- Example link
 * [HTML](https://example.com): Version 12.3 
-* [CSS](https://example.com): Version 2.34
-* [Java Script](https://example.com): Version 1234
+-->
+* HTML
+* [CSS]
+* [Java Script]
 * 
 ## Installation
 ***
