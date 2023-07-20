@@ -67,7 +67,7 @@ $ npm start
 A list of frequently asked questions
 1. **This project it has been developed for David de la Fuente?**
    
-_Yes, all project that you can see, and projects linked inside it has been developed for me_. 
+   _Yes, all project that you can see, and projects linked inside it has been developed for me_. 
 
 2. __The style of the project is copied?__
 
