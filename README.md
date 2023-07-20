@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 This is my personal portfolio web, to show the world my skills, and my interests, and know a few more about me.
 I've decided to create this site in manually, without libraries or frameworks to help me. This decission was for showing my capacity with different technologies.
 This site is deployed in Netlify, and the mail server used is Convertkit.
+Some projects I can't show you because they are private, only explain basic concepts about.
+
 ### Screenshot
 ![Image text](https://www.seiu1000.org/sites/main/files/main-images/camera_lense_0.jpeg)
 ## Technologies
