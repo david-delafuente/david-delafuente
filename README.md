@@ -48,7 +48,7 @@ A list of technologies used within the project:
 * HTML
 * CSS
 * Java Script
-* CSS Animations (https://animate.style)
+* CSS Animations(https://animate.style)
 ## Installation
 ***
 A little intro about the installation. 
