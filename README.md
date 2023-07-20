@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# David's Portfolio
+***
+Personal web portfolio created by David de la Fuente Gómez
+
 ## Table of Contents
 1. [General Info](#general-info)
 2. [Technologies](#technologies)
@@ -29,13 +34,16 @@ This site is deployed in Netlify, and the mail server used is Convertkit.
 Some projects I can't show you because they are private, only explain basic concepts about.
 
 ### Screenshot
+***
 ![Image text](https://www.seiu1000.org/sites/main/files/main-images/camera_lense_0.jpeg)
+
 ## Technologies
 ***
 A list of technologies used within the project:
 * [Technologie name](https://example.com): Version 12.3 
 * [Technologie name](https://example.com): Version 2.34
 * [Library name](https://example.com): Version 1234
+* 
 ## Installation
 ***
 A little intro about the installation. 
