@@ -1,4 +1,4 @@
-<!--
+
 ### Hi there 👋
 
 # Hola, mi nombre es David de la Fuente Gómez 👋
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 # David's Portfolio
 Personal web portfolio created by David de la Fuente Gómez.
