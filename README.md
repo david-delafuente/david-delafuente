@@ -19,12 +19,13 @@ Here are some ideas to get you started:
 ## Table of Contents
 1. [General Info](#general-info)
 2. [Technologies](#technologies)
-3. [Installation](#installation)
-4. [Collaboration](#collaboration)
-5. [FAQs](#faqs)
+3. [Links](#links)
+4. [FAQs](#faqs)
 ### General Info
 ***
-Write down the general informations of your project. It is worth to always put a project status in the Readme file. This is where you can add it. 
+This is my personal portfolio web, to show the world my skills, and my interests, and know a few more about me.
+I've decided to create this site in manually, without libraries or frameworks to help me. This decission was for showing my capacity with different technologies.
+This site is deployed in Netlify, and the mail server used is Convertkit.
 ### Screenshot
 ![Image text](https://www.seiu1000.org/sites/main/files/main-images/camera_lense_0.jpeg)
 ## Technologies
