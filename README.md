@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 -->
 
 # David's Portfolio
-***
 Personal web portfolio created by David de la Fuente Gómez
 
 ## Table of Contents
