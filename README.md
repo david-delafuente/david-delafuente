@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ***
 Write down the general informations of your project. It is worth to always put a project status in the Readme file. This is where you can add it. 
 ### Screenshot
-![Image text](https://www.united-internet.de/fileadmin/user_upload/Brands/Downloads/Logo_IONOS_by.jpg)
+![Image text][(https://www.united-internet.de/fileadmin/user_upload/Brands/Downloads/Logo_IONOS_by.jpg)](https://www.seiu1000.org/sites/main/files/main-images/camera_lense_0.jpeg)
 ## Technologies
 ***
 A list of technologies used within the project:
