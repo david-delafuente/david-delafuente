@@ -71,7 +71,7 @@ _Yes, all project that you can see, and projects linked inside it has been devel
 
 2. __The style of the project is copied?__
 
-   _No, I decided this tyle inspired on different webs that I can see working and developing websites, using new tendencies and trying to create a clear website, easy to navigate_.
+_No, I decided this style inspired by different webs that I've seen working and developing websites, using new tendencies and trying to create a clear website, easy to navigate_.
    
 To answer this question we use an unordered list:
 * First point
