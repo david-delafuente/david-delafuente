@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 # David's Portfolio
-Personal web portfolio created by David de la Fuente Gómez
+Personal web portfolio created by David de la Fuente Gómez.
 
 ## Table of Contents
 1. [General Info](#general-info)
@@ -64,7 +64,7 @@ $ npm start
  
 ### FAQs
 ***
-A list of frequently asked questions
+
 1. **This project has been developed for David de la Fuente?**
    
    _Yes, all project that you can see, and projects linked inside it has been developed for me_. 
