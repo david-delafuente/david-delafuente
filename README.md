@@ -60,13 +60,13 @@ $ npm install
 $ npm start
 ```
 
-> If you to contibute to improve this project, please write me!
+> If you to contribute for improving this project, please write to me!
  
 ### FAQs
 ***
 A list of frequently asked questions
-1. **This is a question in bold**
-Answer of the first question with _italic words_. 
+1. **This project it has been developed for David de la Fuente?**
+_Yes, all project that you can see, and projects linked inside it has been developed for me_. 
 2. __Second question in bold__ 
 To answer this question we use an unordered list:
 * First point
